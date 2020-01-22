@@ -17,6 +17,6 @@ Command: ```sha256sum terrorTime.apk```
 ![](https://github.com/TheLeopardsH/NSACodebreakerchallenge19/blob/master/Task1/sha3hash.PNG)
 
 ## Registration information is avaialable in README.developer
-**test1--vhost-1234@terrortime.app:secret1
+*test1--vhost-1234@terrortime.app:SrDGVZlbbJhqM0*
 
-**test2--vhost-1234@terrortime.app:secret2
+*test2--vhost-1234@terrortime.app:ymqHDv8IqB85BO*
