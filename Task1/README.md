@@ -15,4 +15,5 @@ Command: sha256sum terrorTime.apk
 
 ## Registration information is avaialable in README.developer
 test1--vhost-1234@terrortime.app:secret1
+
 test2--vhost-1234@terrortime.app:secret2
