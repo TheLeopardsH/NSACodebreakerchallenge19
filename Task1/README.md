@@ -7,7 +7,7 @@ There are many challenges that we will need to overcome in order to exploit Terr
 Write-up
 
 Hash of terrorTime.apk:
-Command: sha256sum terrorTime.apk
 
+Command: sha256sum terrorTime.apk
 ![](https://github.com/TheLeopardsH/NSACodebreakerchallenge19/blob/master/Task1/sha3hash.PNG)
 
