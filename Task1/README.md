@@ -5,7 +5,7 @@ Submit the APK's SHA256 hash.This will help us search other intelligence sources
 
 
 # Write-up
-        I am given packet capture(terrortime.pcapng).When I open it in wireshark, I need to look at http traffic and it has terrorTime.apk file and apk developer information.We can export it via File -> Export Objects -> HTTP and save it in some location.Note I uploaded apk file and Developer information here.
+        I am given packet capture(terrortime.pcapng).When I open it in wireshark, I need to look at http traffic(unlike https,http is unencripted) and it has terrorTime.apk file and apk developer information.We can export it via File -> Export Objects -> HTTP and save it in some location.Note I uploaded apk file and Developer information here.
 ![](https://github.com/TheLeopardsH/NSACodebreakerchallenge19/blob/master/Task1/terrorTimewireshark.PNG)
         
 In task 1  I have to provide  SHA256 hash and registration information for two clients.So
